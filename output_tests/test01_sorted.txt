@@ -1,0 +1,10 @@
+Sorted container
+Container is store 8 shapes:
+Automobile: max_speed = 189  fuel_consumption = 19, fuel_capasity = 24, Distance = 1.263157894736842
+Automobile: max_speed = 155  fuel_consumption = 18, fuel_capasity = 29, Distance = 1.6111111111111112
+Automobile: max_speed = 190  fuel_consumption = 15, fuel_capasity = 26, Distance = 1.7333333333333334
+Automobile: max_speed = 178  fuel_consumption = 16, fuel_capasity = 35, Distance = 2.1875
+Truck: lifting_capacity = 4870  fuel_consumption = 10, fuel_capasity = 26, Distance = 2.6
+Truck: lifting_capacity = 2300  fuel_consumption = 12, fuel_capasity = 34, Distance = 2.8333333333333335
+Truck: lifting_capacity = 3657  fuel_consumption = 11, fuel_capasity = 34, Distance = 3.090909090909091
+Bus: passenger_capacity = 15  fuel_consumption = 10, fuel_capasity = 46, Distance = 4.6

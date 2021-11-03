@@ -1,0 +1,11 @@
+Container is store 10 shapes:
+Bus: passenger_capacity = 26  fuel_consumption = 37, fuel_capasity = 1, Distance = 0.02702702702702703
+Bus: passenger_capacity = 14  fuel_consumption = 47, fuel_capasity = 17, Distance = 0.3617021276595745
+Truck: lifting_capacity = 283  fuel_consumption = 18, fuel_capasity = 10, Distance = 0.5555555555555556
+Truck: lifting_capacity = 2822  fuel_consumption = 2, fuel_capasity = 13, Distance = 6.5
+Automobile: max_speed = 176  fuel_consumption = 48, fuel_capasity = 7, Distance = 0.14583333333333334
+Automobile: max_speed = 151  fuel_consumption = 8, fuel_capasity = 17, Distance = 2.125
+Truck: lifting_capacity = 424  fuel_consumption = 13, fuel_capasity = 14, Distance = 1.0769230769230769
+Bus: passenger_capacity = 11  fuel_consumption = 21, fuel_capasity = 10, Distance = 0.47619047619047616
+Automobile: max_speed = 192  fuel_consumption = 2, fuel_capasity = 11, Distance = 5.5
+Truck: lifting_capacity = 4805  fuel_consumption = 34, fuel_capasity = 2, Distance = 0.058823529411764705
